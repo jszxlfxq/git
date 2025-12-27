@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- 预加载关键资源 -->
     <link rel="preload" href="1766489746822.png" as="image" type="image/png">
-    <link rel="preload" href="b3a5f2616624fa00fd65d52a299512a0.webp" as="image" type="image/webp">
+    <link rel="preload" href="96d07142865ce29cbf5b085b488acdf7.jpg" as="image" type="image/webp">
     <link rel="preload" href="8e3bdb8706d6e01844e8a1412a40ecb7.webp" as="image" type="image/webp">
     <link rel="preload" href="facf8d1f-9403-4cdc-9126-13a997c7c3a7.webp" as="image" type="image/webp">
     <link rel="preload" href="94401de90ac8618d64e47a36143a0aed.webp" as="image" type="image/webp">
@@ -192,7 +192,7 @@
         /* 英雄区域（保持背景清晰，移除内容区液态玻璃） */
         .hero {
             min-height: 100vh;
-            background: url('b3a5f2616624fa00fd65d52a299512a0.webp') center/cover fixed;
+            background: url('96d07142865ce29cbf5b085b488acdf7.jpg') center/cover fixed;
             display: flex;
             align-items: center;
             justify-content: center;
