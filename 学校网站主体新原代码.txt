@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>兼善中学龙凤校区</title>
     <!-- 网站图标 -->
-    <link rel="icon" href="1766489746822.png" type="image/png" sizes="16x16">
-    <link rel="icon" href="1766489746822.png" type="image/png" sizes="32x32">
-    <link rel="icon" href="1766489746822.png" type="image/png" sizes="48x48">
-    <link rel="icon" href="1766489746822.png" type="image/png" sizes="64x64">
+    <link rel="icon" href="mmexport1766489468499_edit_339491669146742.png" type="image/png" sizes="16x16">
+    <link rel="icon" href="mmexport1766489468499_edit_339491669146742.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="mmexport1766489468499_edit_339491669146742.png" type="image/png" sizes="48x48">
+    <link rel="icon" href="mmexport1766489468499_edit_339491669146742.png" type="image/png" sizes="64x64">
     <!-- Apple设备图标 -->
     <link rel="apple-touch-icon" href="1766489746822.png" sizes="180x180">
     <link rel="apple-touch-icon-precomposed" href="1766489746822.png" sizes="180x180">
@@ -19,8 +19,11 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- 预加载关键资源 -->
+    <link rel="preload" href="微信图片_2025-12-29_094910_981.jpg" as="image" type="image/jpg">
+    <link rel="preload" href="qrcode_1766972978412.jpg" as="image" type="image/jpg">
     <link rel="preload" href="1766489746822.png" as="image" type="image/png">
-    <link rel="preload" href="96d07142865ce29cbf5b085b488acdf7.jpg" as="image" type="image/webp">
+    <link rel="preload" href="mmexport1766489468499_edit_339491669146742.png" as="image" type="image/png">
+    <link rel="preload" href="96d07142865ce29cbf5b085b488acdf7.jpg" as="image" type="image/jpg">
     <link rel="preload" href="8e3bdb8706d6e01844e8a1412a40ecb7.webp" as="image" type="image/webp">
     <link rel="preload" href="facf8d1f-9403-4cdc-9126-13a997c7c3a7.webp" as="image" type="image/webp">
     <link rel="preload" href="94401de90ac8618d64e47a36143a0aed.webp" as="image" type="image/webp">
@@ -189,7 +192,7 @@
             transform: scale(1.1);
         }
 
-        /* 英雄区域（保持背景清晰，移除内容区液态玻璃） */
+        /* 英雄区域 */
         .hero {
             min-height: 100vh;
             background: url('96d07142865ce29cbf5b085b488acdf7.jpg') center/cover fixed;
@@ -1086,8 +1089,8 @@
                     </div>
                     <p>重庆市兼善中学龙凤校区-培育未来领袖的摇篮</p>
                     <div class="social-links">
-                        <a href="#"><i class="fab fa-weixin"></i></a>
-                        <a href="#"><i class="fab fa-qq"></i></a>
+                        <a href="微信图片_2025-12-29_094910_981.jpg"><i class="fab fa-weixin"></i></a>
+                        <a href="qrcode_1766972978412.jpg"><i class="fab fa-qq"></i></a>
                         <a href="#"><i class="fab fa-weibo"></i></a>
                     </div>
                 </div>
